@@ -1,4 +1,4 @@
-<img src="./logo.svg" align="left" width="250"/>
+<img src="./logo.svg" align="left" width="100"/>
 
 ### `Pi Entertainment`
 
