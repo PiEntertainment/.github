@@ -1,6 +1,6 @@
 # .github
 
 ## Licenses
-Images: [CC-BY-SA-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
+Images: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Other: No License
